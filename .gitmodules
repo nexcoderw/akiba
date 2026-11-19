@@ -1,0 +1,12 @@
+[submodule "akiba-api"]
+	path = akiba-api
+	url = https://github.com/nexcoderw/akiba-api
+[submodule "akiba-db"]
+	path = akiba-db
+	url = https://github.com/nexcoderw/akiba-db
+[submodule "akiba-admin"]
+	path = akiba-admin
+	url = https://github.com/nexcoderw/akiba-admin
+[submodule "akiba-organization"]
+	path = akiba-organization
+	url = https://github.com/nexcoderw/akiba-organization
